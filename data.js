@@ -1,0 +1,98 @@
+export default [
+  {
+    transaction_no: "192933718337910231293485901",
+    date: "11/1/2021",
+    amount: 0.0012,
+    type: "Transfer",
+  },
+  {
+    transaction_no: "192933718337910231293485901",
+    date: "12/1/2021",
+    amount: 0.00125,
+    type: "Bill",
+  },
+  {
+    transaction_no: "192933718337910231293485901",
+    date: "14/1/2021",
+    amount: 0.0019,
+    type: "Bill",
+  },
+  {
+    transaction_no: "192933718337910231293485901",
+    date: "15/1/2021",
+    amount: 0.0022,
+    type: "Transfer",
+  },
+  {
+    transaction_no: "192933718337910231293485901",
+    date: "21/1/2021",
+    amount: 0.002,
+    type: "Transfer",
+  },
+  {
+    transaction_no: "192933718337910231293485901",
+    date: "24/1/2021",
+    amount: 0.002,
+    type: "Transfer",
+  },
+  {
+    transaction_no: "192933718337910231293485901",
+    date: "25/1/2021",
+    amount: 0.002,
+    type: "Transfer",
+  },
+  {
+    transaction_no: "192933718337910231293485901",
+    date: "27/1/2021",
+    amount: 0.002,
+    type: "Transfer",
+  },
+  {
+    transaction_no: "192933718337910231293485901",
+    date: "28/1/2021",
+    amount: 0.002,
+    type: "Transfer",
+  },
+  {
+    transaction_no: "192933718337910231293485901",
+    date: "29/1/2021",
+    amount: 0.002,
+    type: "Transfer",
+  },
+  {
+    transaction_no: "192933718337910231293485901",
+    date: "30/1/2021",
+    amount: 0.002,
+    type: "Transfer",
+  },
+  {
+    transaction_no: "192933718337910231293485901",
+    date: "1/2/2021",
+    amount: 0.002,
+    type: "Transfer",
+  },
+  {
+    transaction_no: "192933718337910231293485901",
+    date: "2/2/2021",
+    amount: 0.002,
+    type: "Transfer",
+  },
+  {
+    transaction_no: "192933718337910231293485901",
+    date: "4/2/2021",
+    amount: 0.002,
+    type: "Transfer",
+  },
+  {
+    transaction_no: "192933718337910231293485901",
+    date: "5/2/2021",
+    amount: 0.002,
+    type: "Transfer",
+  },
+  {
+    transaction_no: "192933718337910231293485901",
+    date: "7/2/2021",
+    amount: 0.002,
+    type: "Transfer",
+  },
+];
